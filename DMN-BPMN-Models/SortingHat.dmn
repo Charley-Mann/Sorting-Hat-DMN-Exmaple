@@ -20,9 +20,9 @@
           <text>quidditch</text>
         </inputExpression>
       </input>
-      <input id="InputClause_1mxh4kr" label="Horkrux">
+      <input id="InputClause_1mxh4kr" label="Horcrux">
         <inputExpression id="LiteralExpression_1wn2zjl" typeRef="long">
-          <text>horkrux</text>
+          <text>horcrux</text>
         </inputExpression>
       </input>
       <input id="InputClause_0xa47fu" label="Your Potion">
